@@ -18,5 +18,8 @@
     <ClCompile Include="CPlusPlusConsoleApps.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="string_roll.h">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
